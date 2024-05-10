@@ -1,0 +1,17 @@
+{
+  "produtos": [
+    {
+      "id": "f1a7"
+    },
+    {
+      "id": "fd82",
+      "descricao": "Halls de hortelã",
+      "preco": 3
+    },
+    {
+      "id": "265b",
+      "descricao": "Cocada",
+      "preco": 5
+    }
+  ]
+}
