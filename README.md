@@ -39,6 +39,9 @@ TO-DO (documentar):
 - Possui abordagem automatizada;
 - Universal para gerenciar todos os softwares do Windows, entre outras. 
 
+Da aula de sexta (10/05):
+- Instalação de dependencias de projeto com o comando npm install
+
 
 
 
